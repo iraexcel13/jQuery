@@ -32,3 +32,15 @@
   border-color: blue;
 
 }
+
+.highlight:hover {
+  text-decoration: underline;
+}
+
+.highlight {
+  cursor: pointer;
+}
+
+img {
+  height: 300px;
+}
