@@ -15,4 +15,9 @@ $("document").ready(function() {
     $("body").addClass("light-background");
     $("body").addClass("black-text");
   });
+
+  $(".highlight").click(function() {
+    $(".highlight").addClass("highlight-paragraph");
+    $(".highlight").addClass("box");
+  });
 });
