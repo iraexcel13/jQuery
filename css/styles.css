@@ -1,8 +1,24 @@
-#initially-showing {
+.initially-showing {
   display: none;
 }
 
 .clickable {
   cursor: pointer;
   color: #0088cc;
+}
+
+.dark-background {
+  background-color: black;
+}
+
+.white-text {
+  color: white;
+}
+
+.light-background {
+  background-color: white;
+}
+
+.black-text {
+  color: black;
 }
